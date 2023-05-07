@@ -24,12 +24,12 @@ body {
   width: 200px;
   height: 25px;
   color: #121212;
-  background-color: rgb(221, 221, 221);
-  border: 1px solid rgb(221, 221, 221);
+  background-color: rgb(136, 255, 68);
   padding: 10px;
   margin-top: 5px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
   background-clip: padding-box;
+  transition: background-color 1s ease-in-out;
 }
 
 .subContainer {
